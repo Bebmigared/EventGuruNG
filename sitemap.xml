@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://eventguru.ng/</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/index.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/about.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/eventlist.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/create.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/managemyevent.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/signing/index.php?location=</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/details.php/../event1.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/signing/new/../index.php?location=%2Fsigning%2Fnew%2Fevents.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/event1.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/userpolicy.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/signing/index.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/signing/signup.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eventguru.ng/signing/index.php?location=%2Fregister.php</loc>
+  <lastmod>2019-07-09T15:29:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

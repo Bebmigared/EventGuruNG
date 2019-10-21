@@ -1,0 +1,185 @@
+[20-Jun-2019 15:46:54 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/db.php on line 2
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/db.php on line 2
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/signing/server.php on line 12
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/signing/server.php on line 13
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/signing/server.php on line 14
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/signing/server.php on line 15
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/signing/server.php on line 16
+[20-Jun-2019 16:22:35 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/signing/server.php on line 17
+[24-Jun-2019 11:36:57 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 11:37:36 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 14:23:20 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 14:24:45 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 14:25:07 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 14:30:44 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 14:31:44 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[24-Jun-2019 14:33:57 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/eventgur/public_html/signing/signup.php on line 62
+[26-Jun-2019 03:10:15 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:10:15 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:10:15 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:10:15 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 16
+[26-Jun-2019 03:10:53 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:10:53 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:10:53 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:10:53 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 16
+[26-Jun-2019 03:17:03 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:17:03 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:17:03 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/login_pro.php on line 12
+[26-Jun-2019 03:17:03 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 16
+[26-Jun-2019 03:27:06 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 21
+[26-Jun-2019 03:33:07 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 21
+[26-Jun-2019 03:46:34 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 21
+[26-Jun-2019 03:47:38 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 21
+[26-Jun-2019 06:27:58 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 21
+[26-Jun-2019 08:25:27 Africa/Lagos] PHP Fatal error:  Call to a member function query() on null in /home/eventgur/public_html/signing/login_pro.php on line 21
+[26-Jun-2019 13:04:28 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 13:04:28 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[26-Jun-2019 13:09:00 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 13:09:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[26-Jun-2019 13:12:10 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 13:12:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[26-Jun-2019 13:13:32 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 13:13:32 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[26-Jun-2019 14:26:39 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 14:26:39 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[26-Jun-2019 14:47:22 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 14:47:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[26-Jun-2019 14:53:27 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[26-Jun-2019 14:53:27 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[28-Jun-2019 08:21:19 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[28-Jun-2019 08:21:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[28-Jun-2019 08:22:50 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 77
+[28-Jun-2019 08:22:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:52) in /home/eventgur/public_html/signing/server.php on line 95
+[28-Jun-2019 08:24:05 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 78
+[28-Jun-2019 08:34:53 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 79
+[28-Jun-2019 08:45:39 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 79
+[28-Jun-2019 08:50:23 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:47) in /home/eventgur/public_html/signing/server.php on line 65
+[28-Jun-2019 08:50:23 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 91
+[28-Jun-2019 09:01:21 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 93
+[28-Jun-2019 09:03:06 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 93
+[28-Jun-2019 09:11:42 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 92
+[28-Jun-2019 09:11:42 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/signing/server.php on line 112
+[28-Jun-2019 09:14:04 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/signing/server.php on line 64
+[28-Jun-2019 09:14:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:72) in /home/eventgur/public_html/signing/server.php on line 73
+[28-Jun-2019 09:14:04 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 97
+[28-Jun-2019 09:14:54 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/signing/server.php on line 64
+[28-Jun-2019 09:14:54 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 97
+[28-Jun-2019 09:20:34 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/signing/server.php on line 64
+[28-Jun-2019 09:20:34 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 101
+[28-Jun-2019 09:23:53 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/signing/server.php on line 64
+[28-Jun-2019 09:23:53 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 09:28:10 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 09:32:36 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 09:35:53 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 09:37:08 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 09:41:37 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 09:43:24 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[28-Jun-2019 13:07:33 Africa/Lagos] PHP Warning:  require(http.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/google_login.php on line 2
+[28-Jun-2019 13:07:33 Africa/Lagos] PHP Warning:  require(http.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/google_login.php on line 2
+[28-Jun-2019 13:07:33 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'http.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/google_login.php on line 2
+[28-Jun-2019 17:39:19 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[15-Jul-2019 10:19:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/index2.php:65) in /home/eventgur/public_html/signing/index2.php on line 70
+[15-Jul-2019 10:20:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/index2.php:65) in /home/eventgur/public_html/signing/index2.php on line 70
+[15-Jul-2019 10:24:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/index2.php:65) in /home/eventgur/public_html/signing/index2.php on line 70
+[15-Jul-2019 10:29:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/index2.php:65) in /home/eventgur/public_html/signing/index2.php on line 70
+[15-Jul-2019 10:38:55 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/index2.php:73) in /home/eventgur/public_html/signing/index2.php on line 74
+[15-Jul-2019 10:39:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/index2.php:73) in /home/eventgur/public_html/signing/index2.php on line 74
+[15-Jul-2019 10:45:09 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/eventgur/public_html/signing/index2.php on line 74
+[16-Jul-2019 09:21:05 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 103
+[16-Jul-2019 12:10:13 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/eventgur/public_html/signing/server.php on line 100
+[16-Jul-2019 12:26:15 Africa/Lagos] PHP Fatal error:  Call to undefined function sendmail() in /home/eventgur/public_html/signing/server.php on line 100
+[16-Jul-2019 12:27:37 Africa/Lagos] PHP Fatal error:  Call to undefined function sendmail() in /home/eventgur/public_html/signing/server.php on line 100
+[16-Jul-2019 12:35:57 Africa/Lagos] PHP Fatal error:  Call to undefined function sendmail() in /home/eventgur/public_html/signing/server.php on line 100
+[16-Jul-2019 12:43:30 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 12:43:30 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 12:43:30 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 12:54:10 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ',' or ';' in /home/eventgur/public_html/signing/server.php on line 105
+[16-Jul-2019 12:54:24 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ',' or ';' in /home/eventgur/public_html/signing/server.php on line 105
+[16-Jul-2019 12:55:11 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 12:55:11 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 12:55:11 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 12:55:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:104) in /home/eventgur/public_html/signing/server.php on line 105
+[16-Jul-2019 13:00:52 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 13:00:52 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 13:00:52 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 13:01:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:104) in /home/eventgur/public_html/signing/server.php on line 105
+[16-Jul-2019 13:03:54 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 13:03:54 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 13:03:54 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 14:34:11 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 14:34:11 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 14:34:11 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:13:28 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:13:28 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:13:28 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:15:52 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:15:52 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:15:52 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:18:08 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:18:08 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:18:08 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:20:04 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:20:04 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:20:04 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:22:51 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:22:51 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:22:51 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:25:11 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:25:11 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:25:11 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:32:45 Africa/Lagos] PHP Fatal error:  Can't use function return value in write context in /home/eventgur/public_html/signing/server.php on line 74
+[16-Jul-2019 15:32:49 Africa/Lagos] PHP Fatal error:  Can't use function return value in write context in /home/eventgur/public_html/signing/server.php on line 74
+[16-Jul-2019 15:33:37 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:33:37 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:33:37 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:35:05 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:35:05 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:35:05 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:35:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:106) in /home/eventgur/public_html/signing/server.php on line 109
+[16-Jul-2019 15:37:35 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:37:35 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:37:35 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:37:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/server.php:106) in /home/eventgur/public_html/signing/server.php on line 109
+[16-Jul-2019 15:44:42 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:44:42 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 15:44:42 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:27:51 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:27:51 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:27:51 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:31:05 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:31:05 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:31:05 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:38:28 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:38:28 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:38:28 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:47:14 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:47:14 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:47:14 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:49:53 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:49:53 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[16-Jul-2019 16:49:53 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:18:36 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:18:36 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:18:36 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:20:21 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:20:21 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:20:21 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:20:52 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:20:52 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:20:52 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:24:56 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:24:56 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:24:56 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:25:19 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:25:19 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:25:19 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:31:24 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:31:24 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:31:24 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:55:31 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:55:31 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:55:31 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:56:06 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:56:06 Africa/Lagos] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 08:56:06 Africa/Lagos] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/signing/mailing.php on line 3
+[17-Jul-2019 09:18:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/signing/mailing.php:113) in /home/eventgur/public_html/signing/server.php on line 109

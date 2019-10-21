@@ -1,0 +1,190 @@
+[21-Jun-2019 07:57:17 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/db.php on line 2
+[21-Jun-2019 07:57:17 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/allevent.php on line 6
+[21-Jun-2019 07:57:17 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eventgur/public_html/allevent.php on line 7
+[21-Jun-2019 07:57:17 Africa/Lagos] PHP Fatal error:  Call to a member function close() on boolean in /home/eventgur/public_html/allevent.php on line 46
+[21-Jun-2019 07:57:30 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/db.php on line 2
+[21-Jun-2019 07:57:30 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/allevent.php on line 6
+[21-Jun-2019 07:57:30 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eventgur/public_html/allevent.php on line 7
+[21-Jun-2019 07:57:30 Africa/Lagos] PHP Fatal error:  Call to a member function close() on boolean in /home/eventgur/public_html/allevent.php on line 46
+[21-Jun-2019 11:01:39 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event4.php:65) in /home/eventgur/public_html/eregister.php on line 89
+[21-Jun-2019 11:01:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event2.php:66) in /home/eventgur/public_html/eregister.php on line 89
+[23-Jun-2019 19:51:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event4.php:65) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 01:51:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event2.php:66) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 09:16:08 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event2.php:66) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 09:16:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event4.php:65) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 11:47:21 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event2.php:66) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 11:51:43 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 11:51:43 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 11:51:47 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 11:53:23 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 11:53:23 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 11:53:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 12:46:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event2.php:66) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 12:47:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event3.php:65) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 13:51:57 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 13:52:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 13:52:32 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 13:52:35 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 13:52:40 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 13:52:40 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 13:52:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 13:53:32 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 14:26:44 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/pdf.php on line 28
+[24-Jun-2019 14:26:44 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/pdf.php on line 28
+[24-Jun-2019 14:26:52 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/pdf.php on line 28
+[24-Jun-2019 14:27:29 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/pdf.php on line 28
+[24-Jun-2019 14:33:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event2.php:66) in /home/eventgur/public_html/eregister.php on line 89
+[24-Jun-2019 14:33:26 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/pdf.php on line 28
+[24-Jun-2019 16:33:58 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 16:33:58 Africa/Lagos] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/eventgur/public_html/search.php on line 21
+[24-Jun-2019 16:34:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[24-Jun-2019 16:34:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/search.php:44) in /home/eventgur/public_html/searchresult.php on line 5
+[25-Jun-2019 05:20:25 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event3.php:65) in /home/eventgur/public_html/eregister.php on line 89
+[28-Jun-2019 09:03:13 Africa/Lagos] PHP Warning:  Illegal string offset 'firstname' in /home/eventgur/public_html/header.php on line 90
+[15-Jul-2019 12:52:23 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event4.php:65) in /home/eventgur/public_html/eregister.php on line 89
+[16-Jul-2019 16:55:58 Africa/Lagos] PHP Warning:  include(myeve.php): failed to open stream: No such file or directory in /home/eventgur/public_html/myevent.php on line 341
+[16-Jul-2019 16:55:58 Africa/Lagos] PHP Warning:  include(myeve.php): failed to open stream: No such file or directory in /home/eventgur/public_html/myevent.php on line 341
+[16-Jul-2019 16:55:58 Africa/Lagos] PHP Warning:  include(): Failed opening 'myeve.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/myevent.php on line 341
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 21
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 22
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 23
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 24
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 25
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 26
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 27
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 28
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 29
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 30
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 31
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 32
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 33
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 34
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 35
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 36
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 37
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 38
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 39
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 40
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 41
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 42
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 43
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 44
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 45
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 46
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 47
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 48
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 49
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 50
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 51
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 52
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 53
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 54
+[17-Jul-2019 09:51:32 Africa/Lagos] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/eventgur/public_html/store.php on line 55
+[18-Jul-2019 15:45:25 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 15:45:25 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 15:45:25 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:16:16 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:16:16 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:16:16 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:25:17 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:25:17 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:25:17 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:25:51 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:25:51 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:25:51 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:39:42 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:39:42 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:39:42 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:43:06 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:43:06 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:43:06 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:44:11 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:44:11 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[18-Jul-2019 16:44:11 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:43:31 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:43:31 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:43:31 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:49:38 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:49:38 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:49:38 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:58:47 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:58:47 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[19-Jul-2019 16:58:47 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[22-Jul-2019 12:13:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/imgupload.php:43) in /home/eventgur/public_html/imgupload.php on line 51
+[22-Jul-2019 14:18:07 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/eventgur/public_html/e_details.php:2) in /home/eventgur/public_html/e_details.php on line 3
+[22-Jul-2019 14:18:07 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/e_details.php:2) in /home/eventgur/public_html/e_details.php on line 7
+[22-Jul-2019 14:20:39 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/eventgur/public_html/e_details.php:2) in /home/eventgur/public_html/e_details.php on line 3
+[22-Jul-2019 14:20:39 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/e_details.php:2) in /home/eventgur/public_html/e_details.php on line 7
+[23-Jul-2019 07:33:04 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/myeve.php on line 9
+[23-Jul-2019 08:28:50 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 13
+[23-Jul-2019 08:28:50 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eventgur/public_html/mytik.php on line 16
+[23-Jul-2019 08:28:58 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[23-Jul-2019 08:29:38 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[23-Jul-2019 08:30:43 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[23-Jul-2019 08:30:59 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 14
+[23-Jul-2019 08:30:59 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eventgur/public_html/mytik.php on line 17
+[23-Jul-2019 08:31:55 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 14
+[23-Jul-2019 08:31:55 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eventgur/public_html/mytik.php on line 17
+[23-Jul-2019 08:35:25 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 15
+[23-Jul-2019 08:35:25 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eventgur/public_html/mytik.php on line 18
+[23-Jul-2019 08:36:33 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eventgur/public_html/mytik.php on line 21
+[23-Jul-2019 08:37:32 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 13
+[23-Jul-2019 08:37:35 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 13
+[23-Jul-2019 08:40:15 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 15
+[23-Jul-2019 08:40:37 Africa/Lagos] PHP Warning:  Illegal offset type in /home/eventgur/public_html/mytik.php on line 15
+[24-Jul-2019 07:31:44 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[24-Jul-2019 17:10:05 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[24-Jul-2019 17:10:05 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[24-Jul-2019 17:10:05 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[24-Jul-2019 17:12:05 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[24-Jul-2019 17:12:05 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[24-Jul-2019 17:12:05 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[26-Jul-2019 14:05:34 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[26-Jul-2019 14:05:37 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/myeve.php on line 9
+[31-Jul-2019 10:52:03 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[01-Aug-2019 08:03:37 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[01-Aug-2019 11:24:08 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[02-Aug-2019 08:11:02 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eventgur/public_html/mytik.php on line 9
+[05-Aug-2019 10:27:59 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[05-Aug-2019 10:27:59 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[05-Aug-2019 10:27:59 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[05-Aug-2019 10:28:17 Africa/Lagos] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/eventgur/public_html/fpdf181/fpdf.php on line 1259
+[05-Aug-2019 10:28:17 Africa/Lagos] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: logo.png' in /home/eventgur/public_html/fpdf181/fpdf.php:271
+Stack trace:
+#0 /home/eventgur/public_html/fpdf181/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/eventgur/public_html/fpdf181/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/eventgur/public_html/pdf.php(67): FPDF->Image('logo.png', 5, 16)
+#3 {main}
+  thrown in /home/eventgur/public_html/fpdf181/fpdf.php on line 271
+[05-Aug-2019 10:28:31 Africa/Lagos] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/eventgur/public_html/fpdf181/fpdf.php on line 1259
+[05-Aug-2019 10:28:31 Africa/Lagos] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: logo.png' in /home/eventgur/public_html/fpdf181/fpdf.php:271
+Stack trace:
+#0 /home/eventgur/public_html/fpdf181/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/eventgur/public_html/fpdf181/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/eventgur/public_html/pdf.php(67): FPDF->Image('logo.png', 5, 16)
+#3 {main}
+  thrown in /home/eventgur/public_html/fpdf181/fpdf.php on line 271
+[05-Aug-2019 10:29:27 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[05-Aug-2019 10:29:27 Africa/Lagos] PHP Warning:  include(../db.php): failed to open stream: No such file or directory in /home/eventgur/public_html/mailing.php on line 3
+[05-Aug-2019 10:29:27 Africa/Lagos] PHP Warning:  include(): Failed opening '../db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/eventgur/public_html/mailing.php on line 3
+[05-Aug-2019 10:29:33 Africa/Lagos] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/eventgur/public_html/fpdf181/fpdf.php on line 1259
+[05-Aug-2019 10:29:33 Africa/Lagos] PHP Fatal error:  Uncaught exception 'Exception' with message 'FPDF error: Can't open image file: logo.png' in /home/eventgur/public_html/fpdf181/fpdf.php:271
+Stack trace:
+#0 /home/eventgur/public_html/fpdf181/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/eventgur/public_html/fpdf181/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/eventgur/public_html/pdf.php(67): FPDF->Image('logo.png', 5, 16)
+#3 {main}
+  thrown in /home/eventgur/public_html/fpdf181/fpdf.php on line 271
+[11-Aug-2019 06:31:15 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[12-Aug-2019 16:31:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/eventgur/public_html/event4.php:58) in /home/eventgur/public_html/eregister.php on line 89
+[14-Aug-2019 01:16:54 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[14-Aug-2019 01:17:06 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[14-Aug-2019 01:17:06 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[14-Aug-2019 01:17:07 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[14-Aug-2019 01:17:14 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[14-Aug-2019 01:17:19 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[01-Sep-2019 17:35:06 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[01-Sep-2019 17:35:53 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[01-Sep-2019 17:37:06 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
+[01-Sep-2019 17:37:48 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/eventgur/public_html/store.php on line 8
